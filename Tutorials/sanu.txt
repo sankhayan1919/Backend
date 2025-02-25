@@ -1,0 +1,6 @@
+Road to Backend.
+Learning from Sheriyans.
+
+
+///////////Notes/////////
+res for set, req for read.
